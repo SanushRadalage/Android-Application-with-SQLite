@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TechGeeks</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="main_page_description">Welcome to Tech Geeks, How many times were you frustrated while memorizing technical terms? What did you expect and what did you get? This app has been created to provide quizzes with well explained questions and answers.</string>
+</resources>
