@@ -1,10 +1,10 @@
 # Android-Application-with-SQLite
 <h2>Android application using JAVA programming language and SQLite to manage Sign-up, Sign-in, User Profile and Implicit data transformation</h2> 
 
-Functions : Sign-Up
-            Sign-In
-            Manage Profile
-            Share data among aother applications
+Functions : _Sign-Up_<br>
+            _Sign-In_<br>
+            _Manage Profile_<br>
+            _Share data among aother applications_<br>
             
 ![s1](https://github.com/SanushRadalage/Android-Application-with-SQLite/blob/master/app/src/main/res/drawable/s1.jpg)
 ![s2](https://github.com/SanushRadalage/Android-Application-with-SQLite/blob/master/app/src/main/res/drawable/s2.jpg)
