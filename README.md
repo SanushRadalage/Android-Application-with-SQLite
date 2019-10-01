@@ -12,6 +12,8 @@ Functions : _Sign-Up_<br>
 ![s4](https://github.com/SanushRadalage/Android-Application-with-SQLite/blob/master/app/src/main/res/drawable/s4.jpg =250x250)
 ![s5](https://github.com/SanushRadalage/Android-Application-with-SQLite/blob/master/app/src/main/res/drawable/s5.jpg =250x250)
 
+<img src="https://camo.githubusercontent.com/..."  width="200" height="400" />
+
 
             
 
